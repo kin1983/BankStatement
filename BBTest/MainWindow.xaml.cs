@@ -24,6 +24,7 @@ namespace BBTest
         {
             InitializeComponent();
             this.Title = "test git";
+            int a = 10;
         }
     }
 }
