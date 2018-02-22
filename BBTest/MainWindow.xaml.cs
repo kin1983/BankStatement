@@ -23,6 +23,7 @@ namespace BBTest
         public MainWindow()
         {
             InitializeComponent();
+            this.Title = "test git";
         }
     }
 }
