@@ -12,6 +12,6 @@
             <RowDefinition Height="auto"></RowDefinition>
         </Grid.RowDefinitions>
         <DataGrid Grid.Row="0"></DataGrid>
-        <Button Grid.Row="1" Background="Bisque" Margin="5">OK</Button>
+        <Button Grid.Row="1" Background="DarkSeaGreen" Margin="5">OK</Button>
     </Grid>
 </Window>
